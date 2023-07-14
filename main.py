@@ -1,1 +1,2 @@
-print("Hello world!")
+print("Hello alesia!")
+print("Nu stii python")
